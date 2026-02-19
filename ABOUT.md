@@ -295,7 +295,7 @@ MIT License - See LICENSE file
 
 - **Issues:** GitHub Issues
 - **Discussions:** GitHub Discussions
-- **Email:** support@ai-insurance.dev
+- **Email:** ankitkumarsuman6@gmail.com
 - **Documentation:** Full guides in repo
 
 ---
@@ -321,4 +321,4 @@ We believe insurance should be transparent, accessible, and empowering. By makin
 
 ---
 
-**Built with ❤️ for the insurance industry | Powered by AI | Backed by open-source**
+**Built with ❤️ for the insurance industry | Backed by open-source**
